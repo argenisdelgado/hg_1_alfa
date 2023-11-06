@@ -1,7 +1,7 @@
 # hg_1_alfa
 
 | Hacks | Details |
-| :---: | :---: |
+| :---: | :--- |
 | H-1 |	Pull Request alfa (Argenis) |
 | H-2 | Pull Request bravo () |
 | H-3	| Pull Request charlie () |
